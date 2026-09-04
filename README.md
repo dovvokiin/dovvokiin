@@ -13,4 +13,10 @@
 <sub>${\text{\color{#a60d14}8\color{#9d1724}6\color{#942234}4⠀⠀\color{#8b2d44}S\color{#823854}X\color{#794364}s\color{#704e73}o⠀⠀\color{#675982}C\color{#5e6491}-\color{#566fa0}P\color{#4d7aa0}T\color{#4b7f8f}S\color{#4f827d}D⠀⠀\color{#58866f}C\color{#618a68}L\color{#6a8e61}U\color{#73925f}S\color{#7c965f}T\color{#859a61}E\color{#8e9e64}R⠀⠀\color{#97a267}B}}$</sub>
 <br>
 <sub>${\text{\color{#a60d14}t\color{#9d1724}a\color{#942234}k\color{#8b2d44}e\color{#823854}n \color{#794364}b\color{#704e73}y \color{#675982}t\color{#5e6491}h\color{#566fa0}e\color{#4d7aa0}m⠀}}$</sub><sub><a href="https://kateshiroreturn.straw.page" target="_blank">♡</a>${\text{\color{#4b7f8f}⠀s\color{#4f827d}i\color{#58866f}g\color{#618a68}n \color{#6a8e61}m\color{#73925f}y \color{#7c965f}新\color{#859a61}b\color{#8e9e64}o\color{#97a267}o\color{#8fa85f}k}}$
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/bea43f267c8a2e906911cad2d5c167be/58241b304e2fe519-cc/s1280x1920/116dd6db312ea18f997c727fc4399f4da1df8fd1.pnj" width="250"/>
+</p>
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hr4vqnw1by9wqpqdtfh4i9j84&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=b5172f)](https://github.com/kittinan/spotify-github-profile)
 </div>
