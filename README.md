@@ -6,7 +6,7 @@
   <img src="https://files.catbox.moe/e3y5b5.png" width="250"/>
 </p>
 
-<sub>${\text{\color{#a60d14}P\color{#9d1724}R\color{#942234}I\color{#8b2d44}N\color{#823854}C\color{#794364}E⠀⠀\color{#704e73}19⠀⠀\color{#675982}it/he⠀⠀\color{#5e6491}GNC}}$</sub> 
+<sub>${\text{\color{#a60d14}P\color{#9d1724}R\color{#942234}I\color{#8b2d44}N\color{#823854}C\color{#794364}E⠀⠀\color{#704e73}20⠀⠀\color{#675982}it/he⠀⠀\color{#5e6491}GNC}}$</sub> 
 <br>
 <sub>${\text{\color{#a60d14}d\color{#9d1724}a\color{#942234}e\color{#8b2d44}d\color{#823854}r\color{#794364}i\color{#704e73}c⠀⠀\color{#675982}p\color{#5e6491}r\color{#566fa0}i\color{#4d7aa0}n\color{#4b7f8f}c\color{#4f827d}e⠀⠀\color{#58866f}d\color{#618a68}r\color{#6a8e61}a\color{#73925f}c\color{#7c965f}o\color{#859a61}n\color{#8e9e64}i\color{#97a267}c}}$</sub>
 <br>
